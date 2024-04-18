@@ -4,3 +4,13 @@ Algoritmo em c# Windows Forms
 - Operadores Numericos
 - Palavras chaves
 - Estrutura de projeto Windows form
+
+Abaixo um exemplo de operador lógico
+
+```csharp
+
+bool contaPaga = true;
+if(contaPaga){
+  Console.WriteLine("Imprimir comprovamate");
+  }
+```
